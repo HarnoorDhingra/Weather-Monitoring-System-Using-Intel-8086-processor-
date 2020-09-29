@@ -3,3 +3,6 @@ Microprocessors and Interfacing Project.
 
 The system monitors weather parameters such as: Air Temperature, Air-Humidity, barometric Pressure, and Displays the average over regular intervals of an hour on a seven- segment display. The Display is continuous. Update of the display is done once in an hour. Weather parameters are sensed at regular intervals of 5 minutes.
 Other than the regular display, the user can request the display of the weather parameters to be updated at any point of time by pressing a push button key. The accuracy of the parameters monitored has to be up to two decimal points.
+
+### Circuit Diagram:
+![111111Final Circuit Dgm](https://user-images.githubusercontent.com/45970634/94574968-58e75080-0291-11eb-9c47-3ded64978bba.jpg)
